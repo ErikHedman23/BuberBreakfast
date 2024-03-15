@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\Models\\Breakfast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BuberBreakfast\\Models\\Breakfast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\BreakfastResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BuberBreakfast.Contracts\\Breakfast\\BreakfastResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\CreateBreakfastRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BuberBreakfast.Contracts\\Breakfast\\CreateBreakfastRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\UpsertBreakfastRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BuberBreakfast.Contracts\\Breakfast\\UpsertBreakfastRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Docs\\Api.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Docs\\Api.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\DeleteBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Requests\\Breakfast\\DeleteBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\UpsertBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Requests\\Breakfast\\UpsertBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\GetBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Requests\\Breakfast\\GetBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\CreateBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Requests\\Breakfast\\CreateBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\Controllers\\BreakfastsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BuberBreakfast\\Controllers\\BreakfastsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BuberBreakfast\\BuberBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BuberBreakfast\\BuberBreakfast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BuberBreakfast\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpsertBreakfastRequest.cs",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\UpsertBreakfastRequest.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast.Contracts\\Breakfast\\UpsertBreakfastRequest.cs",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\UpsertBreakfastRequest.cs",
+              "RelativeToolTip": "BuberBreakfast.Contracts\\Breakfast\\UpsertBreakfastRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:45:48.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateBreakfastRequest.cs",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\CreateBreakfastRequest.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast.Contracts\\Breakfast\\CreateBreakfastRequest.cs",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\CreateBreakfastRequest.cs",
+              "RelativeToolTip": "BuberBreakfast.Contracts\\Breakfast\\CreateBreakfastRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:45:46.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BreakfastResponse.cs",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\BreakfastResponse.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast.Contracts\\Breakfast\\BreakfastResponse.cs",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\BreakfastResponse.cs",
+              "RelativeToolTip": "BuberBreakfast.Contracts\\Breakfast\\BreakfastResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:45:45.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Api.md",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Docs\\Api.md",
+              "RelativeDocumentMoniker": "Docs\\Api.md",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Docs\\Api.md",
+              "RelativeToolTip": "Docs\\Api.md",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-04T17:45:22.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteBreakfast.http",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\DeleteBreakfast.http",
+              "RelativeDocumentMoniker": "Requests\\Breakfast\\DeleteBreakfast.http",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\DeleteBreakfast.http",
+              "RelativeToolTip": "Requests\\Breakfast\\DeleteBreakfast.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-04T17:45:09.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpsertBreakfast.http",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\UpsertBreakfast.http",
+              "RelativeDocumentMoniker": "Requests\\Breakfast\\UpsertBreakfast.http",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\UpsertBreakfast.http",
+              "RelativeToolTip": "Requests\\Breakfast\\UpsertBreakfast.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-04T17:45:08.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetBreakfast.http",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\GetBreakfast.http",
+              "RelativeDocumentMoniker": "Requests\\Breakfast\\GetBreakfast.http",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\GetBreakfast.http",
+              "RelativeToolTip": "Requests\\Breakfast\\GetBreakfast.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-04T17:45:04.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateBreakfast.http",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\CreateBreakfast.http",
+              "RelativeDocumentMoniker": "Requests\\Breakfast\\CreateBreakfast.http",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\Requests\\Breakfast\\CreateBreakfast.http",
+              "RelativeToolTip": "Requests\\Breakfast\\CreateBreakfast.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-04T17:44:53.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Breakfast.cs",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\Models\\Breakfast.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast\\Models\\Breakfast.cs",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\Models\\Breakfast.cs",
+              "RelativeToolTip": "BuberBreakfast\\Models\\Breakfast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:44:29.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BreakfastsController.cs",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\Controllers\\BreakfastsController.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast\\Controllers\\BreakfastsController.cs",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\Controllers\\BreakfastsController.cs",
+              "RelativeToolTip": "BuberBreakfast\\Controllers\\BreakfastsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:44:36.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BuberBreakfast.http",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.http",
+              "RelativeDocumentMoniker": "BuberBreakfast\\BuberBreakfast.http",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.http",
+              "RelativeToolTip": "BuberBreakfast\\BuberBreakfast.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-04T17:44:23.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuberBreakfast.csproj",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+              "RelativeDocumentMoniker": "BuberBreakfast\\BuberBreakfast.csproj",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+              "RelativeToolTip": "BuberBreakfast\\BuberBreakfast.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T17:44:17.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\Program.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast\\Program.cs",
+              "ToolTip": "C:\\Users\\E.Hedman\\OneDrive - Woolpert\\Desktop\\repos\\BuberBreakfast\\BuberBreakfast\\Program.cs",
+              "RelativeToolTip": "BuberBreakfast\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:43:46.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
